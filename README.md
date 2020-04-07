@@ -69,10 +69,10 @@ From your command line:
 ### Install API
 ```bash
 # Clone this repository
-$ git clone https://github.com/DanielObara/SemanaOmnistack11
+$ git clone https://github.com/maykodouglasof/be-the-hero.git
 
 # Go into the repository
-$ cd SemanaOmnistack11/backend
+$ cd be-the-hero/backend
 
 # Install dependencies
 $ yarn install
@@ -87,19 +87,6 @@ $ yarn seed
 $ yarn dev
 ```
 
-## 🤔 How to contribute
-
-- Make a fork;
-- Create a branck with your feature: `git checkout -b my-feature`;
-- Commit changes: `git commit -m 'feat: My new feature'`;
-- Make a push to your branch: `git push origin my-feature`.
-
-After merging your receipt request to done, you can delete a branch from yours.
-
 ## :memo: License
 
 This project is under the MIT license. See the [LICENSE](LICENSE.md) for details.
-
----
-
-Made with ♥ by Daniel Obara :wave: [Get in touch!](https://www.linkedin.com/in/danielobara/)
