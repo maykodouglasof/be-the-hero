@@ -1,78 +1,61 @@
 <h1 align="center">
-    <img alt="BeTheHero" title="#BeTheHero" src="" width="250px" />
+    <img alt="DevRadar" title="#delicinha" src=".github/bethehero.svg" width="200px" />
 </h1>
 
-<h4 align="center"> 
-	:construction: 🚀 Semana OmniStack 11.0 :construction:
+<h4 align="center">
+  🚀 Semana OmniStack 11.0
 </h4>
+
 <p align="center">
-  
-<a aria-label="Completed" href="https://rocketseat.com.br/week-11/aulas#4">
-    <img src="https://img.shields.io/badge/OmniStack-done-green?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
-  </a>
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+ <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=7159c1&labelColor=000000" alt="PRs welcome!" />
+
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000">
 </p>
+
 <p align="center">
-  <a href="https://insomnia.rest/run/?label=SemanaOmnistack11&uri=https%3A%2F%2Fraw.githubusercontent.com%2FDanielObara%2FSemanaOmnistack11%2Fmaster%2FInsomnia_2020-03-24.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
-</p>
-<p align="center">
-  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
+  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
 </p>
 
-## 💻 Project
+<br>
 
-Be The Hero is a project that aims to connect people who are willing to help ONGs.
+<p align="center">
+  <img alt="BeTheHero" src=".github/bethehero.png" width="100%">
+</p>
 
-<h1 align="center">
-    <img alt="Login-Page" title="Login-Page" src=".github/preview.jpg" width="500px" />
-</h1>
+## :rocket: Tecnologias
 
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-## :rocket: Technologies
-
-This project was developed with the following technologies:
-
-- [Node.js](https://nodejs.org/en/) 
+- [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 
+## 💻 Projeto
+
+O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribuições monetárias a ONG's (Organizações não governamentais) que precisam de ajuda.
+
 ## 🔖 Layout
 
-Para acessar o layout utilize a ferramenta [Figma](https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=0%3A1).
+Você pode visualizar o layout do projeto no formato através [desse link](https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=37%3A394). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
 
-## :information_source: How To Use
+## 🤔 Como contribuir
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js][nodejs] + [Yarn][yarn] installed on your computer.
+- Faça um fork desse repositório;
+- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
+- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
+- Faça push para a sua branch: `git push origin minha-feature`.
 
-From your command line:
+Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
-### Install API
-```bash
-# Clone this repository
-$ git clone https://github.com/maykodouglasof/be-the-hero.git
+## :memo: Licença
 
-# Go into the repository
-$ cd be-the-hero/backend
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
-# Install dependencies
-$ yarn install
+---
 
-# Run Migrates
-$ yarn knex migrate:latest 
-
-# Run Seeds
-$ yarn seed
-
-# Run the API
-$ yarn dev
-```
-
-## :memo: License
-
-This project is under the MIT license. See the [LICENSE](LICENSE.md) for details.
+Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
